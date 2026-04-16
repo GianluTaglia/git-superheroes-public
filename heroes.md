@@ -12,3 +12,4 @@
 - Winter Soldier
 - Starlord
 - Gamora
+- Scarlet Witch
